@@ -1,0 +1,2 @@
+add_executable(alpha_combine MACOSX_BUNDLE main.cpp)
+target_link_libraries(alpha_combine fslazywindow polygonalmesh proxyutil)
